@@ -6,5 +6,7 @@ int main()
 
     printf("git\n");
     printf("git2");
+    printf("git3");
+    printf("git4");
     return 0;
 }
